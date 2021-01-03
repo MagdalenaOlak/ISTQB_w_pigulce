@@ -1,6 +1,6 @@
 # TYPY TESTÓW
 
-#### Testy określonego typu skupiają się na konkretnym celu testu, którym może być którykolwiek z poniższych: 
+## Testy określonego typu skupiają się na konkretnym celu testu, którym może być którykolwiek z poniższych: 
 
 * przetestowanie jakiejś funkcji wykonywanej przez oprogramowanie, 
 * przetestowanie jakiegoś niefunkcjonalnego atrybutu jakościowego \(takiego jak niezawodność lub użyteczność\), 
