@@ -1,2 +1,2 @@
-# ISTQB_w_pigulce
+# ISTQB w pigulce
 Najważniejsze zagadnienia zawarte w ISTQB Foundation Level
