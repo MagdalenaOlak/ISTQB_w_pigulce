@@ -1,8 +1,8 @@
 # ISTQB w pigułce
 
-{% embed url="https://www.linkedin.com/in/magdalenaolak/" %}
+{% embed url="https://www.linkedin.com/in/magdalenaolak/" caption="LinkedIn" %}
 
-{% page-ref page="istqb-w-pigulce.md" %}
+[http://e-olak.pl](http://e-olak.pl/)
 
 ## ISTQB w pigulce
 
