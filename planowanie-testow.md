@@ -1,7 +1,5 @@
 # Planowanie testów
 
-## Cele:
-
 * ustalenie zakresu i ryzyka oraz zidentyfikowanie celów testowania
 * zdefiniowanie ogólnego podejścia do testowania włącznie z definicją poziomów testów oraz kryteriów wejścia i zakończenia
 * integrowanie i koordynowanie zadań testowych z innymi zadaniami cyklu życia oprogramowania: zakupami, dostawami, rozwojem, działaniem produkcyjnym oraz pielęgnacją
