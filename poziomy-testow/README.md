@@ -2,11 +2,13 @@
 
 ###  Poziomy testów oprogramowania:
 
-POZIOM 1. Testy modułowe \(jednostkowe\) 
+{% page-ref page="poziom-1.-testy-modulowe-jednostkowe.md" %}
 
-POZIOM 2. Testy integracyjne
+{% page-ref page="poziom-2.-testy-integracyjne.md" %}
 
-POZIOM 3. Testy systemowe
+{% page-ref page="poziom-3.-testy-systemowe.md" %}
 
-POZIOM 4. Testy akceptacyjne
+{% page-ref page="poziom-4.-testy-akceptacyjne/" %}
+
+
 
