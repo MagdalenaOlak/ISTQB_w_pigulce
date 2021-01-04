@@ -16,7 +16,7 @@ Stosunkowo niedawno odkryłam zawód tester - to była miłość od pierwszego w
 
 {% embed url="https://github.com/MagdalenaOlak" %}
 
-
+{% page-ref page="./" %}
 
 
 

@@ -1,0 +1,2 @@
+# MODELE cyklu życia oprogramowania
+
