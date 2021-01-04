@@ -12,6 +12,8 @@
 
 ![](../.gitbook/assets/7-zasad-testowania.jpg)
 
+
+
 ## I. Testowanie ujawnia usterki
 
 Nigdy nie można stwierdzić, że oprogramowanie jest w 100% wolne od błędów. Testowanie może pokazać, że w oprogramowaniu istnieją defekty, ale nie może dowieść, że oprogramowanie ich nie posiada. Zmniejsza prawdopodobieństwo występowania w oprogramowaniu niewykrytych defektów, ale nawet jeśli żadne nie zostały znalezione, nie stanowi to dowodu, że nie mogą wystąpić.

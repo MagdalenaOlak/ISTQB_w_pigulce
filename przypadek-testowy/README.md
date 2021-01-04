@@ -32,3 +32,9 @@ Przypadek testowy jest zbiorem danych wejściowych, wstępnych warunków wykonan
 * Sprawdzenie czy przypadek testowy został napisany zgodnie z wymaganiami 
 * Estetyka, błędy gramatyczne, literówki
 
+## Przypadek testowy. Teoria i praktyka Autor: Radosław Smilgin
+
+{% embed url="http://docplayer.pl/243737-Przypadek-testowy-teoria-i-praktyka.html" %}
+
+\*\*\*\*
+
