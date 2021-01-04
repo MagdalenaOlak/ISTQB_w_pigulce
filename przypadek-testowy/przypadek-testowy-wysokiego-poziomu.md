@@ -1,4 +1,4 @@
-# Przypadek testowy wysokiego poziomu
+# Przypadek testowy wysokiego poziomu \(logiczny\)
 
 ### **Przypadek testowy wysokiego poziomu \(ang.: high level test case\)**
 

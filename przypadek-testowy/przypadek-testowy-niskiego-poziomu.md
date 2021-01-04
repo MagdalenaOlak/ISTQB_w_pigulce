@@ -1,4 +1,4 @@
-# Przypadek testowy niskiego poziomu
+# Przypadek testowy niskiego poziomu \(konkretny\)
 
 ## **Przypadek testowy niskiego poziomu \(ang.: low level test case\)**
 
