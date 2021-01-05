@@ -17,5 +17,5 @@
 5. Testowanie potwierdzające i regresywne.
 {% endhint %}
 
-
+![](../.gitbook/assets/typytestow.jpg)
 

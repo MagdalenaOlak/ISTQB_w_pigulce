@@ -10,5 +10,3 @@
 
 {% page-ref page="poziom-4.-testy-akceptacyjne/" %}
 
-![](../.gitbook/assets/typytestow.jpg)
-
