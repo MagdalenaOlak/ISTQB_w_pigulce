@@ -1,8 +1,26 @@
 # Proces testowy
 
-## Szczegóły elementów podstawowego procesu testowego:
+## W procesie testowym wg. ISTQB wyróżnia się następujące, główne grupy czynności: 
 
-### Planowanie i nadzór nad testami
+1. Planowanie testów
+2. Monitorowanie testów i nadzór nad testami
+3. Analiza testów
+4. Projektowanie testów
+5. Implementacja testów
+6. Wykonywanie testów
+7. Ukończenie testów.
+
+Poszczególne czynności w każdej z grup mogą składać się z kilku pojedynczych zadań różniących się w zależności od projektu lub wersji oprogramowania. w przypadku stosowania metod sekwencyjnych, w których czynności są wykonywane krokowo w logicznej kolejności, pewne elementy nakładają się na siebie, są wykonywane łącznie lub równocześnie bądź są pomijane. W związku z powyższym zwykle konieczne jest dostosowanie głównych czynności do kontekstu danego systemu lub projektu.
+
+## Podstawowy proces testowy
+
+1. Planowanie i nadzór nad testami
+2. Analiza i projektowanie testów
+3. Implementacja i wykonanie testów
+4. Ocena kryteriów zakończenia testów i raportowanie
+5. Czynności zamykające test
+
+### 1. Planowanie i nadzór nad testami
 
 * Zdefiniowanie celów testowania
 * Określenie strategii testowania
@@ -25,13 +43,13 @@
 
 
 
-### Analiza i projektowanie testów
+### 2. Analiza i projektowanie testów
 
 * Przeglądanie podstawy testów, wymagań, specyfikacji
 * Ocena testowalności i priorytetyzacja
 * Przetwarzanie celów testowania w przypadki testowe
 
-### Implementacja i wykonanie testów
+### 3. Implementacja i wykonanie testów
 
 * Przygotowanie procedur testowych, tworzenie danych testowych
 * Sprawdzanie przygotowania środowiska testowego
@@ -40,17 +58,16 @@
 * Raportowanie rozbieżności jako incydentów, analiza w celu ustalenia przyczyny
 * Ustawienie statusu testu
 
-### Ocena kryteriów zakończenia testów i raportowanie
+### 4. Ocena kryteriów zakończenia testów i raportowanie
 
 * Ocena wykonania testów zgodnie z przyjętymi celami testowania
 * Ocena czy nie jest potrzebne więcej test
 * Napisanie raportu podsumowującego testy
 
-### Czynności zamykające test
+### 5. Czynności zamykające test
 
 * Wykonywane np. przy zakończeniu wydania serwisowego
-* Zamknięcie raportów, dokończenie i zarchiwizowanie [testaliów ](./#testalia-testware)
-* i infrastruktury testowej do użycia np. w kolejnej wersji
+* Zamknięcie raportów, dokończenie i zarchiwizowanie [testaliów ](./#testalia-testware)i infrastruktury testowej do użycia np. w kolejnej wersji
 * Wykorzystanie zebranych informacji zo podniesienia jakości testowania w przyszłości
 
 
