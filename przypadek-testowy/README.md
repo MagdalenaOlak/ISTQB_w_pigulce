@@ -25,12 +25,9 @@ Przypadek testowy jest zbiorem danych wejściowych, wstępnych warunków wykonan
 
 ## Przegląd przypadku testowego \(ang. test case review\):
 
-* Dokonywany przez team leadera lub doświadczonego testera posiadającego uprawnienia 
-* Ma na celu sprawdzenie czy przypadek testowy zawiera wszystkie kluczowe i ważne elementy 
-* Sprawdzenie czy kroki obejmują weryfikację testowanego defektu 
-* Sprawdzenie czy wszystkie scenariusze testowe zostały zawarte 
-* Sprawdzenie czy przypadek testowy został napisany zgodnie z wymaganiami 
-* Estetyka, błędy gramatyczne, literówki
+{% page-ref page="przeglad-przypadku-testowego.md" %}
+
+
 
 ## Przypadek testowy. Teoria i praktyka Autor: Radosław Smilgin
 
