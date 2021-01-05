@@ -6,7 +6,9 @@
 * przeglądy mogą być wykonywane dużo wcześniej, jeszcze przed wykonaniem testów dynamicznych,
 * usterki znalezione podczas przeglądów we wczesnych fazach produkcji oprogramowania są tańsze do usunięcia .
 
-#### Przeglądom mogą podlegać wszystkie produkty procesu wytwarzania oprogramowania, m.in.:
+
+
+## Przeglądom mogą podlegać wszystkie produkty procesu wytwarzania oprogramowania, m.in.:
 
 * specyfikacja wymagań,
 * projekt,
@@ -24,7 +26,5 @@
 
 {% page-ref page="przeglad-nieformalny.md" %}
 
-
-
-Przegląd nieformalny.
+## 
 

@@ -1,3 +1,7 @@
+---
+description: 'przegląd, analiza statyczna'
+---
+
 # Testowanie statyczne
 
 ## Testowanie statyczne
@@ -6,11 +10,13 @@ Testowanie modułu lub systemu na poziomie specyfikacji lub implementacji bez wy
 
 ## **Techniki statyczne:**
 
-1.      Przeglądy.
+{% page-ref page="przeglad/" %}
 
-2.      Analiza statyczna.
+{% page-ref page="analiza-statyczna.md" %}
 
+{% hint style="info" %}
 Cele testowania - przeglądy, analiza statyczna oraz testy dynamiczne mają ten sam cel – znajdowanie usterek.
+{% endhint %}
 
 ###  **Podstawowe różnice pomiędzy testowaniem statycznym i dynamicznym**
 

@@ -1,4 +1,4 @@
-# ROLA TESTERA OPROGRAMOWANIA
+# TESTER - rola
 
 ## 
 
