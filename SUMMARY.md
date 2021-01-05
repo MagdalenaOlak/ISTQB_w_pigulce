@@ -53,6 +53,7 @@
   * [Testowanie strukturalne \(białoskrzynkowe\)](typy-testow/testowanie-strukturalne-bialoskrzynkowe.md)
   * [Testowanie związane ze zmianami - testy regresji i retesty](typy-testow/testowanie-zwiazane-ze-zmianami-testy-regresji-i-retesty.md)
   * [Testowanie pielęgnacyjne](typy-testow/testowanie-pielegnacyjne.md)
+* [TECHNIKI TESTÓW](techniki-testow.md)
 * [Środowisko testowe a produkcyjne](srodowisko-testowe-a-produkcyjne.md)
 * [Wymagania funkcjonalne niefunkcjonalne](wymagania-funkcjonalne-niefunkcjonalne.md)
 
