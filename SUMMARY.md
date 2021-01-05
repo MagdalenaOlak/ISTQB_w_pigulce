@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Autor](README.md)
+* [Podstawy testowania](podstawy-testowania/README.md)
+  * [Testowanie a debagowanie](podstawy-testowania/testowanie-a-debagowanie.md)
+  * [7 zasad testowania](podstawy-testowania/7-zasad-testowania.md)
+  * [Proces testowy](podstawy-testowania/proces-testowy-1.md)
 * [Testowanie statyczne](testowanie-statyczne/README.md)
   * [PRZEGLĄD](testowanie-statyczne/przeglad/README.md)
     * [Typy przeglądów](testowanie-statyczne/przeglad/typy-przegladow.md)
@@ -9,10 +13,6 @@
   * [Analiza statyczna](testowanie-statyczne/analiza-statyczna.md)
   * [Techniki przeglądu indywidualnego](testowanie-statyczne/techniki-przegladu-indywidualnego/README.md)
     * [Listy kontrolne](testowanie-statyczne/techniki-przegladu-indywidualnego/listy-kontrolne.md)
-* [Podstawy testowania](podstawy-testowania/README.md)
-  * [Testowanie a debagowanie](podstawy-testowania/testowanie-a-debagowanie.md)
-  * [7 zasad testowania](podstawy-testowania/7-zasad-testowania.md)
-  * [Proces testowy](podstawy-testowania/proces-testowy-1.md)
 * [Weryfikacja i walidacja](weryfikacja-i-walidacja.md)
 * [Przypadek testowy](przypadek-testowy/README.md)
   * [Przypadek testowy niskiego poziomu \(konkretny\)](przypadek-testowy/przypadek-testowy-niskiego-poziomu.md)
