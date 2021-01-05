@@ -1,4 +1,4 @@
-# Techniki przeglądu indywidualnego
+# TECHNIKI przeglądu indywidualnego
 
 ## 1. Przegląd ad hoc
 
