@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Autor](README.md)
+* [TECHNIKI TESTÓW](techniki-testow/README.md)
+  * [CZARNOSKRZYNKOWE](techniki-testow/czarnoskrzynkowe/README.md)
+    * [1.	Klasy równoważności](techniki-testow/czarnoskrzynkowe/1.-klasy-rownowaznosci.md)
+    * [2.	Analiza wartości brzegowych](techniki-testow/czarnoskrzynkowe/2.-analiza-wartosci-brzegowych.md)
 * [ROLA TESTERA](rola-testera-oprogramowania/README.md)
   * [Typy testerów](rola-testera-oprogramowania/typy-testerow.md)
   * [Tester](rola-testera-oprogramowania/tester.md)
@@ -53,7 +57,6 @@
   * [Testowanie strukturalne \(białoskrzynkowe\)](typy-testow/testowanie-strukturalne-bialoskrzynkowe.md)
   * [Testowanie związane ze zmianami - testy regresji i retesty](typy-testow/testowanie-zwiazane-ze-zmianami-testy-regresji-i-retesty.md)
   * [Testowanie pielęgnacyjne](typy-testow/testowanie-pielegnacyjne.md)
-* [TECHNIKI TESTÓW](techniki-testow.md)
 * [Środowisko testowe a produkcyjne](srodowisko-testowe-a-produkcyjne.md)
 * [Wymagania funkcjonalne niefunkcjonalne](wymagania-funkcjonalne-niefunkcjonalne.md)
 
