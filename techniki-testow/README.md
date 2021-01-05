@@ -30,3 +30,5 @@ description: czyli w jaki sposób można testować
 2. Testowanie w oparciu o listy kontrolne
 3. Testowanie eksploracyjne
 
+{% page-ref page="czarnoskrzynkowe/" %}
+

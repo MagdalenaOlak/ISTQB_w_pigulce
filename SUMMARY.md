@@ -6,6 +6,8 @@
     * [1.	Klasy równoważności](techniki-testow/czarnoskrzynkowe/1.-klasy-rownowaznosci.md)
     * [2.	Analiza wartości brzegowych](techniki-testow/czarnoskrzynkowe/2.-analiza-wartosci-brzegowych.md)
     * [3.	Tablice decyzyjne](techniki-testow/czarnoskrzynkowe/3.-tablice-decyzyjne.md)
+    * [4.	Testowanie przejść między stanami](techniki-testow/czarnoskrzynkowe/4.-testowanie-przejsc-miedzy-stanami.md)
+    * [5.	Testowanie w oparciu o przypadki użycia](techniki-testow/czarnoskrzynkowe/5.-testowanie-w-oparciu-o-przypadki-uzycia.md)
 * [ROLA TESTERA](rola-testera-oprogramowania/README.md)
   * [Typy testerów](rola-testera-oprogramowania/typy-testerow.md)
   * [Tester](rola-testera-oprogramowania/tester.md)
