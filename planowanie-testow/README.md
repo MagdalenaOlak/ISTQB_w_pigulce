@@ -1,4 +1,4 @@
-# Planowanie testów
+# PLANOWANIE TESTÓW
 
 ## Planowanie testów
 

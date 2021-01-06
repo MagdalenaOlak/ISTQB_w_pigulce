@@ -2,7 +2,7 @@
 description: 'przegląd, analiza statyczna'
 ---
 
-# Testowanie statyczne
+# TESTY STATYCZNE
 
 ## Testowanie statyczne
 
