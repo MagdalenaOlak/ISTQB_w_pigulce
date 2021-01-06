@@ -41,7 +41,7 @@
   * [Testowanie a debagowanie](podstawy-testowania/testowanie-a-debagowanie.md)
   * [7 zasad testowania](podstawy-testowania/7-zasad-testowania.md)
 * [Weryfikacja i walidacja](weryfikacja-i-walidacja.md)
-* [Przypadek testowy](przypadek-testowy/README.md)
+* [PRZYPADEK testowy](przypadek-testowy/README.md)
   * [Przypadek testowy niskiego poziomu \(konkretny\)](przypadek-testowy/przypadek-testowy-niskiego-poziomu.md)
   * [Przypadek testowy wysokiego poziomu \(logiczny\)](przypadek-testowy/przypadek-testowy-wysokiego-poziomu.md)
   * [Przegląd przypadku testowego](przypadek-testowy/przeglad-przypadku-testowego.md)
@@ -68,4 +68,8 @@
 
 * [e-Olak.pl](http://e-olak.pl)
 * [GitHub](https://github.com/MagdalenaOlak)
+
+## POLITYKA PRYWATNOŚCI
+
+* [PRAWA AUTORSKIE](polityka-prywatnosci/prawa-autorskie.md)
 

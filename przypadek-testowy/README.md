@@ -1,4 +1,4 @@
-# Przypadek testowy
+# PRZYPADEK testowy
 
 ## Przypadek testowy \(ang. test case\)
 
