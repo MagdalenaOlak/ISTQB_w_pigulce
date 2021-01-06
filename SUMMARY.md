@@ -78,6 +78,9 @@
   * [Do wykonania testów oraz logowania](narzedzia/do-wykonania-testow-oraz-logowania.md)
   * [Do wydajności i monitorowania](narzedzia/do-wydajnosci-i-monitorowania.md)
   * [Do różnych obszarów zastosowań](narzedzia/do-roznych-obszarow-zastosowan.md)
+* [AGILE](agile/README.md)
+  * [Manifest Agile](agile/manifest-agile.md)
+  * [Podejście "cały zespół" i info zwrotne](agile/podejscie-caly-zespol-i-info-zwrotne.md)
 
 ## Linki
 
