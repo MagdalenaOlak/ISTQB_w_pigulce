@@ -1,26 +1,34 @@
-# Autor
+---
+description: Tematy na egzamin trochę przystępniej
+---
 
-## Magdalena Olak
+# ISTQB w pigułce
 
-Stosunkowo niedawno odkryłam zawód tester - to była miłość od pierwszego wejrzenia. Od razu wiedziałam, że mogę szybko być w nim bardzo dobra, ponieważ przez ostatnie 9 lat miałam do czynienia z tworzeniem stron internetowych z użyciem m.in. Jira, TestLink, GIT, HTTP, CSS, PHP i CMS. Znam także podstawy SQL/MySQL. W ostatnim roku zrobiłam 3 kursy online oraz rozpoczęłam studia podyplomowe na kierunku Tester Oprogramowania. Nauka i zdobywanie nowych umiejętności w dziedzinie testowania to najważniejsze punkty w mojej codziennej rutynie. Zatrudnienie na stanowisku testera oprogramowania postrzegam jako krok milowy w mojej karierze zawodowej dzięki różnorodności zadań i możliwość rozwoju. Jestem zdeterminowana przejść wszystkie etapy drogi do sukcesu ISTQB, aż do ISTQB Advanced Level Test Automation Engineer i zostać testerem, o jakim marzy każdy pracodawca.
+Zagadnienia niezbędne na egzamin ISTQB Foundation Level dla osoby, która nigdy nie miała nic wspólnego z testowaniem, w pierwszej chwili wydają się, delikatnie mówiąc, zagmatwane. Zdecydowałam się usystematyzować je i opisać w bardziej przystępnej formie aby każdy, kto decyduje się na zostanie testerem oprogramowania, miał większość informacji pod ręką. 
 
-### LinkedIn
+Od czego zacząć?
 
-{% embed url="https://www.linkedin.com/in/magdalenaolak/" caption="" %}
+Najlepiej po kolei, jednak na początku musisz poznać podstawy:
 
-### WWW
+{% page-ref page="podstawy-testowania/" %}
 
-{% embed url="http://e-olak.pl" %}
+{% page-ref page="poziomy-testow/" %}
 
-### GitHub
+{% page-ref page="typy-testow/" %}
 
-{% embed url="https://github.com/MagdalenaOlak" %}
+{% page-ref page="techniki-testow/" %}
 
-{% page-ref page="./" %}
+{% page-ref page="modele-cyklu-zycia-oprogramowania/" %}
+
+{% page-ref page="przypadek-testowy/" %}
+
+{% page-ref page="rola-testera-oprogramowania/" %}
 
 
 
-## 
+
+
+
 
 Prawa autorskie: [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 

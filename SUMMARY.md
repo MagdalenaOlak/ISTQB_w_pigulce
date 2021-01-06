@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Autor](README.md)
+* [ISTQB w pigułce](README.md)
+* [Autor](autor.md)
 * [TECHNIKI TESTÓW](techniki-testow/README.md)
   * [CZARNOSKRZYNKOWE](techniki-testow/czarnoskrzynkowe/README.md)
     * [1.	Klasy równoważności](techniki-testow/czarnoskrzynkowe/1.-klasy-rownowaznosci.md)
