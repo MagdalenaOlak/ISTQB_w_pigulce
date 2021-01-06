@@ -28,7 +28,9 @@ Najlepiej po kolei, jednak na początku musisz poznać podstawy:
 
 
 
+Autor: [Magdalena Olak](https://www.linkedin.com/in/magdalenaolak/)
 
+Linked [https://www.linkedin.com/in/magdalenaolak/](https://www.linkedin.com/in/magdalenaolak/)
 
 Prawa autorskie: [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
