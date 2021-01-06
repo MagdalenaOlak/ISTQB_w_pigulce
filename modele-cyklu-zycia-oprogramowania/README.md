@@ -1,4 +1,4 @@
-# MODELE cyklu życia oprogramowania
+# MODELE
 
 ## **Podstawowe modele wytwarzania oprogramowania:**
 

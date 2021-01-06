@@ -1,4 +1,4 @@
-# PODSTAWY i WAŻNE zagadnienia
+# PODSTAWY
 
 ## Co to jest testowanie oprogramowania?
 

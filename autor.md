@@ -1,4 +1,4 @@
-# Autor
+# AUTOR
 
 ## Magdalena Olak
 
