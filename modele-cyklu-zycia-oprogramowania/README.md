@@ -1,6 +1,10 @@
+---
+description: Podstawowe modele wytwarzania oprogramowania
+---
+
 # MODELE
 
-## **Podstawowe modele wytwarzania oprogramowania:**
+## **Podstawowe modele wytwarzania oprogramowania**
 
 {% page-ref page="model-wodospadowy.md" %}
 
