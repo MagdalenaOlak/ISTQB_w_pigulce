@@ -1,6 +1,15 @@
 # Table of contents
 
 * [ISTQB w pigułce](README.md)
+* [AGILE](agile/README.md)
+  * [Manifest Agile](agile/manifest-agile.md)
+  * [Podejście "cały zespół" i info zwrotne](agile/podejscie-caly-zespol-i-info-zwrotne.md)
+  * [PODEJŚCIA](agile/podejscia/README.md)
+    * [Programowanie ekstremalne \(XP\)](agile/podejscia/programowanie-ekstremalne-xp.md)
+    * [Test-driven development \(TDD\)](agile/podejscia/test-driven-development-tdd.md)
+    * [SCRUM](agile/podejscia/scrum.md)
+    * [Kanban](agile/podejscia/kanban.md)
+  * [Historyjki użytkownika](agile/historyjki-uzytkownika.md)
 * [AUTOR](autor.md)
 * [PODSTAWY](podstawy-testowania/README.md)
   * [Proces testowy](podstawy-testowania/proces-testowy-1.md)
@@ -78,9 +87,6 @@
   * [Do wykonania testów oraz logowania](narzedzia/do-wykonania-testow-oraz-logowania.md)
   * [Do wydajności i monitorowania](narzedzia/do-wydajnosci-i-monitorowania.md)
   * [Do różnych obszarów zastosowań](narzedzia/do-roznych-obszarow-zastosowan.md)
-* [AGILE](agile/README.md)
-  * [Manifest Agile](agile/manifest-agile.md)
-  * [Podejście "cały zespół" i info zwrotne](agile/podejscie-caly-zespol-i-info-zwrotne.md)
 
 ## Linki
 
