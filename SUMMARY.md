@@ -10,7 +10,6 @@
   * [Środowisko testowe a produkcyjne](podstawy-testowania/srodowisko-testowe-a-produkcyjne.md)
   * [Wymagania funkcjonalne niefunkcjonalne](podstawy-testowania/wymagania-funkcjonalne-niefunkcjonalne.md)
 * [ROLA TESTERA](rola-testera-oprogramowania/README.md)
-  * [Untitled](rola-testera-oprogramowania/untitled.md)
   * [Typy testerów](rola-testera-oprogramowania/typy-testerow.md)
   * [Tester](rola-testera-oprogramowania/tester.md)
   * [Zadania testera](rola-testera-oprogramowania/zadania-testera/README.md)
