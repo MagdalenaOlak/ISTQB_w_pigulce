@@ -1,4 +1,4 @@
-# AGILE
+# AGILE - METODYKI ZWINNE
 
 ## ZWINNE wytwarzanie oprogramowania 
 

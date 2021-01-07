@@ -1,15 +1,6 @@
 # Table of contents
 
 * [ISTQB w pigułce](README.md)
-* [AGILE](agile/README.md)
-  * [Manifest Agile](agile/manifest-agile.md)
-  * [Podejście "cały zespół" i info zwrotne](agile/podejscie-caly-zespol-i-info-zwrotne.md)
-  * [PODEJŚCIA](agile/podejscia/README.md)
-    * [Programowanie ekstremalne \(XP\)](agile/podejscia/programowanie-ekstremalne-xp.md)
-    * [Test-driven development \(TDD\)](agile/podejscia/test-driven-development-tdd.md)
-    * [SCRUM](agile/podejscia/scrum.md)
-    * [Kanban](agile/podejscia/kanban.md)
-  * [Historyjki użytkownika](agile/historyjki-uzytkownika.md)
 * [AUTOR](autor.md)
 * [PODSTAWY](podstawy-testowania/README.md)
   * [Proces testowy](podstawy-testowania/proces-testowy-1.md)
@@ -19,6 +10,7 @@
   * [Środowisko testowe a produkcyjne](podstawy-testowania/srodowisko-testowe-a-produkcyjne.md)
   * [Wymagania funkcjonalne niefunkcjonalne](podstawy-testowania/wymagania-funkcjonalne-niefunkcjonalne.md)
 * [ROLA TESTERA](rola-testera-oprogramowania/README.md)
+  * [Untitled](rola-testera-oprogramowania/untitled.md)
   * [Typy testerów](rola-testera-oprogramowania/typy-testerow.md)
   * [Tester](rola-testera-oprogramowania/tester.md)
   * [Zadania testera](rola-testera-oprogramowania/zadania-testera/README.md)
@@ -87,6 +79,18 @@
   * [Do wykonania testów oraz logowania](narzedzia/do-wykonania-testow-oraz-logowania.md)
   * [Do wydajności i monitorowania](narzedzia/do-wydajnosci-i-monitorowania.md)
   * [Do różnych obszarów zastosowań](narzedzia/do-roznych-obszarow-zastosowan.md)
+* [AGILE - METODYKI ZWINNE](agile/README.md)
+  * [Manifest Agile](agile/manifest-agile.md)
+  * [Podejście "cały zespół" i info zwrotne](agile/podejscie-caly-zespol-i-info-zwrotne.md)
+  * [PODEJŚCIA](agile/podejscia/README.md)
+    * [Programowanie ekstremalne \(XP\)](agile/podejscia/programowanie-ekstremalne-xp.md)
+    * [Test-driven development \(TDD\)](agile/podejscia/test-driven-development-tdd.md)
+    * [SCRUM](agile/podejscia/scrum.md)
+    * [Kanban](agile/podejscia/kanban.md)
+  * [Historyjki użytkownika](agile/historyjki-uzytkownika.md)
+  * [Planowanie wydania i iteracji](agile/planowanie-wydania-i-iteracji.md)
+  * [RETROSPEKTYWY](agile/retrospektywy.md)
+  * [Rola i umiejętności testera w projekcie zwinnym](agile/rola-i-umiejetnosci-testera-w-projekcie-zwinnym.md)
 
 ## Linki
 
