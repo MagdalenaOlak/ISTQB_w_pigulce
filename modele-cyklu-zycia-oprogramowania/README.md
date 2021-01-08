@@ -12,6 +12,10 @@ description: Podstawowe modele wytwarzania oprogramowania
 
 {% page-ref page="model-iteracyjny-przyrostowy.md" %}
 
+{% hint style="info" %}
+Bez względu na wybrany model cyklu życia oprogramowania czynności testowe powinny rozpocząć się w początkowym etapie tego cyklu, zgodnie z zasadą wczesnego testowania.
+{% endhint %}
+
 ## **Modele - cechy wspólne**
 
 ·        dla każdej czynności związanej z wytworzeniem oprogramowania istnieją odpowiadające jej czynności związane z testowaniem

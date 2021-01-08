@@ -115,6 +115,7 @@
     * [Kanban](metody-wytorcze/agile/podejscia/kanban.md)
 * [SCRUM](metody-wytorcze/scrum/README.md)
   * [Szacowanie czasochłonności](metody-wytorcze/scrum/szacowanie-czasochlonnosci.md)
+* [KANBAN](metody-wytorcze/kanban.md)
 
 ## Linki
 
