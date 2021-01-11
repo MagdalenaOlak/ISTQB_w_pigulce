@@ -11,10 +11,9 @@
 
 {% hint style="info" %}
 1. Testowanie funkcjonalne 
-2. Testowanie funkcjonalne. 
-3. Testowanie niefunkcjonalne. 
-4. Testowanie strukturalne. 
-5. Testowanie potwierdzające i regresywne.
+2. Testowanie niefunkcjonalne. 
+3. Testowanie strukturalne \(białoskrzynkowe\). 
+4. Testowanie związane ze zmianami \(potwierdzające i regresywne\).
 {% endhint %}
 
 ![](../.gitbook/assets/typytestow.jpg)
