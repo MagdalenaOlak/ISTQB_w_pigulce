@@ -9,12 +9,15 @@
 
 ## Typy testów
 
-{% hint style="info" %}
-1. Testowanie funkcjonalne 
-2. Testowanie niefunkcjonalne. 
-3. Testowanie strukturalne \(białoskrzynkowe\). 
-4. Testowanie związane ze zmianami \(potwierdzające i regresywne\).
-{% endhint %}
+{% page-ref page="testowanie-funkcjonalne.md" %}
+
+{% page-ref page="testowanie-niefunkcjonalne.md" %}
+
+{% page-ref page="testowanie-strukturalne-bialoskrzynkowe.md" %}
+
+{% page-ref page="testowanie-zwiazane-ze-zmianami-testy-regresji-i-retesty.md" %}
+
+
 
 ![](../.gitbook/assets/typytestow.jpg)
 
