@@ -28,9 +28,7 @@ description: czyli w jaki sposób można testować
 
 ## **Techniki oparte na doświadczeniu**
 
-1. Zgadywanie błędów
-2. Testowanie w oparciu o listy kontrolne
-3. Testowanie eksploracyjne
-
-{% page-ref page="czarnoskrzynkowe/" %}
+1. [Zgadywanie błędów](oparte-na-doswiadczeniu/zgadywanie-bledow.md)
+2. [Testowanie w oparciu o listy kontrolne](../podstawy-testowania/testowanie-a-debagowanie.md)
+3. [Testowanie eksploracyjne](oparte-na-doswiadczeniu/testowanie-eksploracyjne.md)
 
