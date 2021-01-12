@@ -31,5 +31,11 @@
 
 {% page-ref page="podejscia-do-szacowania-pracochlonnosci-testow.md" %}
 
+{% page-ref page="metryki.md" %}
+
+{% page-ref page="ryzyko-projektowe-produktowe.md" %}
+
+{% page-ref page="kierowanie-testami.md" %}
+
 
 
