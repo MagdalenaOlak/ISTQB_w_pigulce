@@ -17,3 +17,7 @@ Manifest Zwinnego Wytwarzania Oprogramowania lub Manifest Agile \(ang. Agile Man
 * Współpraca z klientem ponad formalne ustalenia
 * Reagowanie na zmiany ponad podążanie za planem
 
+{% page-ref page="manifest-agile.md" %}
+
+
+
