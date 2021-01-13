@@ -19,5 +19,17 @@ Manifest Zwinnego Wytwarzania Oprogramowania lub Manifest Agile \(ang. Agile Man
 
 {% page-ref page="manifest-agile.md" %}
 
+{% page-ref page="podejscie-caly-zespol-i-info-zwrotne.md" %}
+
+## PODEJŚCIA do zwinnego wytwarzania oprogramowania:
+
+{% page-ref page="podejscia/programowanie-ekstremalne-xp.md" %}
+
+{% page-ref page="podejscia/test-driven-development-tdd.md" %}
+
+{% page-ref page="../scrum/" %}
+
+{% page-ref page="../kanban.md" %}
+
 
 
