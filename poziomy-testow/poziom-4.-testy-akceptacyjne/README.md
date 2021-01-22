@@ -16,19 +16,24 @@ proces biznesowy na systemie w pełni zintegrowanym, procesy utrzymania i obsłu
 
 Nie zawsze są ostatnim poziomem testów, **mogą również być wykonane w trakcie testów** modułowych jako testy użyteczności modułu lub przed testami systemowymi jako testy nowej funkcjonalności.
 
-**Formy testów akceptacyjnych:**
+## **Formy testów akceptacyjnych:**
 
-Testowanie akceptacyjne przez użytkownika
+* Testowanie akceptacyjne przez użytkownika
+* Akceptacyjne testy produkcyjne
+* Testy akceptacyjne zgodności z umową
+* Test zgodności legislacyjnej
+* Testy alfa
+* Testy beta
 
-Akceptacyjne testy produkcyjne
+{% hint style="info" %}
+Testowanie akceptacyjne — podobnie jak testowanie systemowe — skupia się zwykle na zachowaniu i możliwościach całego systemu lub produktu. 
+{% endhint %}
 
-Testy akceptacyjne zgodności z umową
+## Cele testowania akceptacyjnego to najczęściej: 
 
- Test zgodności legislacyjnej
-
-Testy alfa
-
-Testy beta
+* budowanie zaufania do systemu; 
+* sprawdzanie kompletności systemu i jego prawidłowego działania; 
+* sprawdzanie zgodności zachowania funkcjonalnego i niefunkcjonalnego systemu ze specyfikacją.
 
 \*\*\*\*
 

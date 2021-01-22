@@ -2,15 +2,17 @@
 
 ## Podstawa testów
 
-* wymagania na moduły
-* projekt szczegółowy
-* kod
+* projekt szczegółowy; 
+* kod; 
+* model danych;
+* specyfikacje modułów \(wymagania na moduły\).
 
 ## Obiekty testów
 
-* moduły, programy
-* programy do konwersacji lub migracji danych
-* moduły bazodanowe.
+* moduły, jednostki lub komponenty; 
+* kod i struktury danych; 
+* klasy;
+* moduły baz danych.
 
 Testy modułowe/jednostkowe \(ang. component/unit testing\) są **wykonywane głównie przez deweloperów** w celu upewnienia się czy ich kod odpowiednio działa i czy spełnia wymagania użytkownika.
 
@@ -33,5 +35,21 @@ W aplikacji przechowującej dane studentów mogą istnieć dwa moduły – jeden
   * projekt oprogramowania 
   * model danych
 
-Często przypadki testowe są przygotowywane i automatyzowane przed kodowaniem – jest to tak zwane **podejście "najpierw testuj"** lub **"wytwarzanie sterowane testowaniem"** opierające się na cyklach polegających na  wykonywaniu testów modułowych, poprawianiu usterek i powtarzaniu cyklu aż testy zostaną zaliczone
+Często przypadki testowe są przygotowywane i automatyzowane przed kodowaniem – jest to tak zwane **podejście "najpierw testuj"** lub **"wytwarzanie sterowane testowaniem"** opierające się na cyklach polegających na  wykonywaniu testów modułowych, poprawianiu usterek i powtarzaniu cyklu aż testy zostaną zaliczone.
+
+## Cele testowania modułowego: 
+
+* zmniejszanie ryzyka; 
+* sprawdzanie zgodności zachowań funkcjonalnych i niefunkcjonalnych modułu z projektem i specyfikacjami; 
+* budowanie zaufania do jakości modułu; 
+* wykrywanie defektów w module; 
+* zapobieganie przedostawaniu się defektów na wyższe poziomy testowania.
+
+## Typowe defekty i awarie 
+
+Przykładami typowych defektów i awarii wykrywanych w ramach testowania modułowego są:
+
+* niepoprawna funkcjonalność \(np. niezgodna ze specyfikacją projektu\); 
+* problemy z przepływem danych; 
+* niepoprawny kod i logika.
 

@@ -36,3 +36,11 @@ Testerzy koncentrują się wyłącznie na samej integracji, a nie na funkcjonaln
 
 Testerzy powinni rozumieć architekturę i mieć wpływ na planowanie integracji. Jeżeli testy integracyjne planowane są zanim moduły lub systemy zostały wyprodukowane, można ich rozwój ustawić w kolejności pozwalającej na najbardziej efektywne testowanie.
 
+Cele testowania integracyjnego 
+
+* zmniejszanie ryzyka; 
+* sprawdzanie zgodności zachowań funkcjonalnych i niefunkcjonalnych interfejsów z projektem i specyfikacjami; 
+* budowanie zaufania do jakości interfejsów; 
+* wykrywanie defektów \(które mogą występować w samych interfejsach lub w modułach/systemach\); 
+* zapobieganie przedostawaniu się defektów na wyższe poziomy testowania.
+
