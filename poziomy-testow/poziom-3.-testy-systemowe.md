@@ -3,9 +3,9 @@
 ## Podstawa testów
 
 * specyfikacje wymagań \(funkcjonalnych i niefunkcjonalnych\) dotyczących systemu i oprogramowania; 
-* raporty z analizy ryzyka; 
 * przypadki użycia; 
 * opowieści i historyjki użytkownika; 
+* raporty z analizy ryzyka; 
 * modele zachowania systemu; 
 * diagramy stanów; 
 * instrukcje obsługi systemu i podręczniki użytkownika.
@@ -19,6 +19,8 @@ Testy systemowe zajmują się zachowaniem systemu, zakres testów powinien być 
 
 Przedmioty testów 
 
+wyprowadza się zwykle ze specyfikacji wymagań, specyfikacji funkcjonalnych lub przypadków użycia.
+
 ## Przedmioty testów: 
 
 * aplikacje; 
@@ -30,15 +32,6 @@ Przedmioty testów
 **Przykład**
 
 W systemie przechowującym dane studentów istnieją różne moduły – pobierający rekordy z formularza rekrutacyjnego, zapisujący pobrane rekordy, umożliwiający dodanie nowego studenta manualnie. Testy systemowe sprawdzają na przykład czy przypadek użycia polegający na dodaniu nowego studenta manualnie, a następnie pobraniu danych dla tego samego studenta z formularza rekrutacyjnego nadpisuje dane studenta dodanego manualnie \(gdyż jest to zgodne z wymaganiami i specyfikacją\).
-
-## Cele testowania systemowego to między innymi: 
-
-* zmniejszanie ryzyka; 
-* sprawdzanie zgodności zachowań funkcjonalnych i niefunkcjonalnych systemu z projektem i specyfikacjami; 
-* sprawdzanie kompletności systemu i prawidłowości jego działania; 
-* budowanie zaufania do jakości systemu jako całości; 
-* wykrywanie defektów; 
-* zapobieganie przedostawaniu się defektów na poziom testowania akceptacyjnego lub na produkcję.
 
 ## Testy systemowe mogą zawierać
 

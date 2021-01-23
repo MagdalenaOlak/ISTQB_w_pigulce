@@ -2,15 +2,15 @@
 
 ## Podstawa testów
 
-* projekt szczegółowy; 
-* kod; 
-* model danych;
-* specyfikacje modułów \(wymagania na moduły\).
+* projekt szczegółowy \(specyfikacje projektowe\)
+* kod;
+* model danych
+* specyfikacje modułów \(wymagania na moduły\)
 
 ## Obiekty testów
 
-* moduły, jednostki lub komponenty; 
-* kod i struktury danych; 
+* moduły, jednostki lub komponenty \(funkcjonalności\); 
+* kod i struktury danych \(obiekty programów\); 
 * klasy;
 * moduły baz danych.
 

@@ -3,11 +3,12 @@
 ## Podstawa testów
 
 * projekt oprogramowania i systemu
-* architektura
-* przepływ procesów
-* przypadki użycia \(use cases\) 
-
-  . 
+* architektura na poziomie modułów i systemu
+* przepływ procesów \(przepływy pracy\)
+* diagramy sekwencji
+* specyfikacje interfejsów
+* definicje interfejsów zewnętrznych
+* przypadki użycia \(use cases\)
 
 ## Obiekty testów
 
