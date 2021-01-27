@@ -17,5 +17,9 @@ Stosunkowo niedawno odkryłam zawód tester – to była miłość od pierwszego
 
 {% embed url="https://github.com/MagdalenaOlak" %}
 
+### ISTQB Foundation Level
+
+{% embed url="https://magdalenaolak.gitbook.io/istqb-foundation-level/" %}
+
 
 
