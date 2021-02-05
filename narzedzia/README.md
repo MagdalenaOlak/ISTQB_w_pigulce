@@ -13,11 +13,14 @@ description: NARZĘDZIA stosowane w procesie testowania oprogramowania
 
 ## **Klasyfikacja narzędzi testowych**
 
-* według wspieranych czynności testowych
+według wspieranych czynności testowych
+
 * Wsparcie narzędziowe dla zarządzania testowaniem i testami
 * Wsparcie narzędziowe dla testów statycznych
 * Wsparcie narzędziowe dla specyfikacji testów
 * Wsparcie narzędziowe dla wykonania testów oraz logowania
 * Wsparcie narzędziowe dla wydajności i monitorowania
 * Wsparcie narzędziowe dla różnych obszarów zastosowań
+
+
 
