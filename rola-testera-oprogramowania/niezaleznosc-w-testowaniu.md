@@ -16,9 +16,9 @@ Niezależność wykonywanych testów może zostać podniesiona przez zaangażowa
 
 ## Korzyści 
 
-* niezależni testerzy widzą inne i odmienne usterki niż twórcy oraz nie mają uprzedzeń 
-* niezależny tester może zweryfikować założenia poczynione podczas specyfikacji i implementacji systemu
-* niezależni testerzy nie pominą oczywistych defektów
+* niezależni testerzy **widzą inne i odmienne usterki** niż twórcy oraz nie mają uprzedzeń 
+* niezależny tester może **zweryfikować założenia** poczynione podczas specyfikacji i implementacji systemu
+* niezależni testerzy **nie pominą oczywistych defektów**
 
 ## Wady
 
