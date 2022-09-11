@@ -6,25 +6,7 @@ description: Tematy na egzamin trochę przystępniej
 
 Zagadnienia niezbędne na egzamin ISTQB Foundation Level dla osoby, która nigdy nie miała nic wspólnego z testowaniem, w pierwszej chwili wydają się, delikatnie mówiąc, zagmatwane. Zdecydowałam się usystematyzować je i opisać w bardziej przystępnej formie aby każdy, kto decyduje się na zostanie testerem oprogramowania, miał większość informacji pod ręką. 
 
-Od czego zacząć?
-
-Najlepiej po kolei, jednak na początku musisz poznać podstawy:
-
-{% page-ref page="podstawy-testowania/" %}
-
-{% page-ref page="poziomy-testow/" %}
-
-{% page-ref page="typy-testow/" %}
-
-{% page-ref page="techniki-testow/" %}
-
-{% page-ref page="modele-cyklu-zycia-oprogramowania/" %}
-
-{% page-ref page="przypadek-testowy/" %}
-
-{% page-ref page="rola-testera-oprogramowania/" %}
-
-
+- [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
 
 
 
